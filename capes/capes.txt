@@ -1,1 +1,7 @@
-retirement:2016.png
+retirement:hephaestus.png
+rg4:alias.png
+peep:hephaestus.png
+shae:hephaestus.png
+dream:hephaestus.png
+selene:hephaestus.png
+heph:hephaestus.png
