@@ -1,4 +1,4 @@
-retirement:hephaestus.png
+retirement:minecon_2011.png
 rg4:alias.png
 peep:hephaestus.png
 shae:hephaestus.png
