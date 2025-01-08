@@ -6,3 +6,4 @@ dream:hephaestus.png
 selene:hephaestus.png
 heph:hephaestus.png
 Sp00n_exe:millionth_customer.png
+LeGend:exeter.png
