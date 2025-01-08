@@ -1,4 +1,4 @@
-retirement:hephaestus.png
+retirement:millionth_customer.png
 rg4:hephaestus.png
 peep:hephaestus.png
 shae:hephaestus.png
