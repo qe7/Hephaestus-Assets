@@ -1,7 +1,8 @@
-retirement:mojira_moderator.png
-rg4:alias.png
+retirement:hephaestus.png
+rg4:hephaestus.png
 peep:hephaestus.png
 shae:hephaestus.png
 dream:hephaestus.png
 selene:hephaestus.png
 heph:hephaestus.png
+Sp00n_exe:millionth_customer.png
